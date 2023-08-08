@@ -3,6 +3,7 @@ This is to prevent the unexpected of the dependency being deleted.
 
 ## llama-cpp-python
 The first one here is the llama-cpp-python. The hardest package to install for me so far. It is such a pain to install it with the cuBlas on window.
+Bug #1: Currently, streaming mode breaks the emoji and some kanji characters due to being non unicode or something along those line. The issue has been realize but yet to fix.
 
 
 # Disclaimer
